@@ -5,9 +5,13 @@
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
+    "@material-ui/core": "4.11.3",
+    "@material-ui/icons": "4.11.2",
+    "@types/react-webcam": "3.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "react-scripts": "4.0.0"
+    "react-scripts": "4.0.0",
+    "react-webcam": "5.2.3"
   },
   "devDependencies": {
     "@types/react": "17.0.0",
